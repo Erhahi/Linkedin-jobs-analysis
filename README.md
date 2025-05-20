@@ -6,7 +6,9 @@ This project breaks down all that data into meaningful insights, helping to tell
 
 **What I Did — Project Phases**
 🔹 **Phase 1: Cleaning & Merging Data**
-I started by merging multiple datasets, like `postings.csv`, `salaries.csv`, `companies.csv`, and `job_skills.csv`.  I cleaned up the data by fixing column names, removing duplicates, and standardizing salary info.  The end result is a clean, ready-to-use dataset saved here: `data_clean/cleaned_linkedin_jobs.csv`. `notebooks/LinkedIn_Phase1_Cleaning.ipynb`
+I started by merging multiple datasets, like `postings.csv`, `salaries.csv`, `companies.csv`, and `job_skills.csv`.  I cleaned up the data by fixing column names, removing duplicates, and standardizing salary info.  The end result is a clean, ready-to-use dataset saved here: [`data_clean/cleaned_linkedin_jobs.csv`](data_clean/cleaned_linkedin_jobs.csv). 
+You can check out all my work in the Notebook: [`LinkedIn_Phase1_Cleaning.ipynb`](LinkedIn_Phase1_Cleaning.ipynb)
+
 
 This gave me a solid foundation for all the analysis to come.
 
@@ -17,7 +19,7 @@ Here, I dug into questions like:
 - Which companies post the most jobs?  
 - How popular is remote work compared to on-site?  
 - How do salaries vary by location and job type?
- You can check out all my work in the notebook: `notebooks/LinkedIn_Phase2_Market_Insights.ipynb`
+ You can check out all my work in the Notebook: [`LinkedIn_Phase2_Market_Insights.ipynb`](notebooks/LinkedIn_Phase2_Market_Insights.ipynb)
 
 Key Insights:
 - Job titles like **Intellectual Property Associate** had the highest average salaries.
@@ -25,6 +27,7 @@ Key Insights:
 - Around **87.10%** of postings were remote-friendly.
 - Locations such as **Springfield, Illinois Metropolitan Area** offered the best average salaries.
   
+
 
 
 🔹 Phase 3: Skills & Benefits Breakdown
