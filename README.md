@@ -7,7 +7,7 @@ This project breaks down all that data into meaningful insights, helping to tell
 **What I Did — Project Phases**
 🔹 **Phase 1: Cleaning & Merging Data**
 I started by merging multiple datasets, like `postings.csv`, `salaries.csv`, `companies.csv`, and `job_skills.csv`.  I cleaned up the data by fixing column names, removing duplicates, and standardizing salary info.  The end result is a clean, ready-to-use dataset saved here: [`clean_data/cleaned_linkedin_jobs.zip`](clean_data/cleaned_linkedin_jobs.zip). 
-You can check out all my work in the Notebook: [`LinkedIn_Phase1_Cleaning.ipynb`](LinkedIn_Phase1_Cleaning.ipynb)
+You can check out all my work in the Notebook: [`LinkedIn_Phase1_Cleaning.ipynb`](notebooks/LinkedIn_Phase1_Cleaning.ipynb)
 
 
 This gave me a solid foundation for all the analysis to come.
