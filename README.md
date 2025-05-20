@@ -19,6 +19,13 @@ Here, I dug into questions like:
 - How do salaries vary by location and job type?
  You can check out all my work in the notebook: `notebooks/LinkedIn-Phase2-MarketInsights.ipynb`
 
+Key Insights:
+- Job titles like **Intellectual Property Associate** had the highest average salaries.
+- **The Job Network** posted the most jobs.
+- Around **87.10%** of postings were remote-friendly.
+- Locations such as **Springfield, Illinois Metropolitan Area** offered the best average salaries.
+  
+
 
 🔹 Phase 3: Skills & Benefits Breakdown
 Next, I focused on the skills employers want and the benefits they offer:  
@@ -59,3 +66,9 @@ linkedin-jobs-analysis/
     ├── LinkedIn-Phase4-TimeTrends.ipynb
     └── LinkedIn-Phase5-Modeling.ipynb
 ```
+
+
+Tools Used
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Google Colab
+- GitHub for version control and portfolio hosting
