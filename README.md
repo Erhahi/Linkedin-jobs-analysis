@@ -35,7 +35,7 @@ Next, I focused on the skills employers want and the benefits they offer:
 - What are the top skills in high-paying roles?  
 - How do skills vary by industry or location?  
 - What benefits come with remote jobs?
-The details are in: `notebooks/LinkedIn-Phase3-SkillsBenefits.ipynb`
+The details are in: [`notebooks/LinkedIn-Phase3-SkillsBenefits.ipynb`](notebooks/LinkedIn-Phase3-SkillsBenefits.ipynb)
 
   
 🔹 Phase 4: Tracking Trends Over Time
