@@ -41,7 +41,7 @@ The details are in: [`notebooks/LinkedIn-Phase3-SkillsBenefits.ipynb`](notebooks
 🔹 Phase 4: Tracking Trends Over Time
 I looked at how the job market evolved month by month:  
 - Growth in remote job postings  
-- Changes in salary trends through 2023 and 2024  
+- Changes in salary trends in 2024  
 - Which skills are becoming more (or less) popular
 See the analysis here: `notebooks/LinkedIn-Phase4-TimeTrends.ipynb`
 
