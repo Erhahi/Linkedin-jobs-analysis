@@ -41,9 +41,9 @@ The details are in: [`notebooks/LinkedIn-Phase3-SkillsBenefits.ipynb`](notebooks
 🔹 Phase 4: Tracking Trends Over Time
 I looked at how the job market evolved month by month:  
 - Growth in remote job postings  
-- Changes in salary trends in 2024  
+- Changes in salary trends  
 - Which skills are becoming more (or less) popular
-See the analysis here: `notebooks/LinkedIn-Phase4-TimeTrends.ipynb`
+See the analysis here: [`notebooks/LinkedIn-Phase4-Tracking_Trends_Over_Time.ipynb`](notebooks/LinkedIn-Phase4-Tracking_Trends_Over_Time.ipynb)
 
 
 🔹 Phase 5: Modeling & Predictions
@@ -61,6 +61,9 @@ linkedin-jobs-analysis/
 ├── README.md
 ├── data_clean/
 │   └── cleaned_linkedin_jobs.csv
+│
+│── Additional_file.md
+│    └── top_skill_trends_over_time.csv
 │
 └── notebooks/
     ├── LinkedIn-Phase1-Cleaning.ipynb
