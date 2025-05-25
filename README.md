@@ -48,10 +48,10 @@ See the analysis here: [`notebooks/LinkedIn-Phase4-Tracking_Trends_Over_Time.ipy
 
 🔹 Phase 5: Modeling & Predictions
 Finally, I built some simple machine learning models to:  
-- Predict salaries based on job and company info  
-- Classify different job types  
-- Group job titles based on required skills
-My code and results are in: `notebooks/LinkedIn-Phase5-Modeling.ipynb`
+- Predict salaries based on job and company info (Regression)
+- Classify different job types (Classification)
+- Group job titles based on required skills (Clustering)
+My code and results are in: [`notebooks/LinkedIn-Phase5-Modeling.ipynb`](notebooks/LinkedIn-Phase5-Modeling.ipynb)
 
 
 
