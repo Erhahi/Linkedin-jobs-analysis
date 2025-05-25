@@ -54,16 +54,6 @@ Finally, I built some simple machine learning models to:
 My code and results are in: `notebooks/LinkedIn-Phase5-Modeling.ipynb`
 
 
-I explored which skills are most frequently required for common job titles and industries.
-
-Key Findings:
-- **Data Analyst**: Top skills include Excel, SQL, Python, and Data Visualization.
-- **Project Manager**: Frequently requires Agile, Communication, and Budgeting.
-- **LinkedIn.com postings**: Emphasized Machine Learning, APIs, and Software Development skills.
-
-These insights help job seekers align their learning paths with industry demand.
-
-
 
 🗂 How This Project Is Organized
 ```
