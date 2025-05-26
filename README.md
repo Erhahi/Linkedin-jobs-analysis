@@ -53,6 +53,31 @@ Finally, I built some simple machine learning models to:
 - Group job titles based on required skills (Clustering)
 My code and results are in: [`notebooks/LinkedIn-Phase5-Modeling.ipynb`](notebooks/LinkedIn-Phase5-Modeling.ipynb)
 
+## Saved Machine Learning Models
+
+This repository contains saved models from Phase 5: Modeling & Predictions.
+
+- [`salary_model.pkl`](salary_model.pkl): Linear regression model to predict normalized salary based on job and company features.
+- [`jobtype_model.pkl`](jobtype_model.pkl): Random Forest classifier to classify job types based on job details.
+- [`label_encoders.pkl`](label_encoders.pkl): Dictionary of label encoders used to transform categorical variables.
+- [`worktype_encoder.pkl`](worktype_encoder.pkl): Label encoder specifically for encoding work types.
+
+### How to use the models
+
+Load the models in Python using `joblib`:
+
+python
+import joblib
+
+salary_model = joblib.load['models/salary_model.pkl']('models/salary_model.pkl')
+jobtype_model = joblib.load['models/jobtype_model.pkl']('models/jobtype_model.pkl')
+label_encoders = joblib.load[models/label_encoders.pkl]('models/label_encoders.pkl')
+worktype_encoder = joblib.load[models/worktype_encoder.pkl]('models/worktype_encoder.pkl')
+
+# Example: Predict salary
+predicted_salary = salary_model.predict(X_new)
+
+
 
 
 🗂 How This Project Is Organized
@@ -65,6 +90,13 @@ linkedin-jobs-analysis/
 │
 │── Additional_file.md
 │    └── top_skill_trends_over_time.csv
+│
+│── models
+│    └── salary_model.pkl
+│    └── jobtype_model.pkl
+│    └── label_encoders.pkl
+│    └── worktype_encoder.pkl
+│
 │
 └── notebooks/
     ├── LinkedIn-Phase1-Cleaning.ipynb
