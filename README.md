@@ -127,6 +127,7 @@ salary_model = joblib.load['models/salary_model.pkl']('models/salary_model.pkl')
 jobtype_model = joblib.load['models/jobtype_model.pkl']('models/jobtype_model.pkl')
 label_encoders = joblib.load['models/label_encoders.pkl']('models/label_encoders.pkl')
 worktype_encoder = joblib.load['models/worktype_encoder.pkl']('models/worktype_encoder.pkl')
+```
 
 **Project Structure**
 ```text
