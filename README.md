@@ -128,7 +128,6 @@ label_encoders = joblib.load['models/label_encoders.pkl']('models/label_encoders
 worktype_encoder = joblib.load['models/worktype_encoder.pkl']('models/worktype_encoder.pkl')
 
 **Project Structure**
-linkedin-jobs-analysis/
 ```text
 linkedin-jobs-analysis/
 ├── README.md
