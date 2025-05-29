@@ -129,6 +129,8 @@ worktype_encoder = joblib.load['models/worktype_encoder.pkl']('models/worktype_e
 
 **Project Structure**
 linkedin-jobs-analysis/
+```text
+linkedin-jobs-analysis/
 ├── README.md
 ├── data_clean/
 │   └── cleaned_linkedin_jobs.csv
@@ -145,4 +147,3 @@ linkedin-jobs-analysis/
 │   └── LinkedIn-Phase5-Modeling.ipynb
 ├── Additional_file.md
 │   └── top_skill_trends_over_time.csv
-
