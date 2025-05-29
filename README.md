@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores over **124,000 job postings** collected from LinkedIn throughout **2023 and 2024**. The dataset includes salary data, job descriptions, company info, remote work status, required skills, and more.
+This project explores over **124,000 LinkedIn job postings** collected from Kaggle from **2023 to 2024**. The dataset includes salary data, job descriptions, company info, remote work status, required skills, and more.
 
 The goal is to uncover meaningful trends in the job market, such as which job roles are highest paying, which companies hire most actively, what skills are in demand, how salaries vary by location, and how things are evolving over time.
 
