@@ -121,6 +121,7 @@ You can load the models in Python using the `joblib` library:
 python
 import joblib
 
+```text
 # Load models
 salary_model = joblib.load['models/salary_model.pkl']('models/salary_model.pkl')
 jobtype_model = joblib.load['models/jobtype_model.pkl']('models/jobtype_model.pkl')
